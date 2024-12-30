@@ -1,0 +1,8 @@
+runner\UserRegistration.class
+pageobject\LoginPagePOM.class
+pagefactory\LoginPage.class
+pagefactory\HomePage.class
+stepdefinitions\UserRegistrationSteps.class
+runner\LoginRunnerwithTags.class
+runner\loginRunner.class
+stepdefinitions\LoginStepDefinitions.class
